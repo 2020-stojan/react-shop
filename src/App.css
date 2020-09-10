@@ -1,6 +1,6 @@
-.App {
+/* .App {
   text-align: center;
-}
+} */
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +35,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.link {
+  border : 2px solid gainsboro;
+  padding: 10px 20px;
+  background-color: lightcyan;
 }
